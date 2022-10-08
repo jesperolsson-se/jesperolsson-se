@@ -1,4 +1,4 @@
-### Hi there 👋
+Passionate software engineer who develops products in the public interest. Strong background in backend development and architecture as well as extreme programming and leadership. Jesper is strongly motivated by the fulfillment that comes with enriching other peoples' lives - listening to their problems and figuring out how to the design a software remedy.
 
 <!--
 **jesperolsson-se/jesperolsson-se** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
