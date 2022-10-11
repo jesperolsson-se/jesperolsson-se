@@ -1,6 +1,8 @@
 Passionate software engineer who develops products in the public interest. Strong background in backend development and architecture as well as extreme programming and leadership. Jesper is strongly motivated by the fulfillment that comes with enriching other peoples' lives - listening to their problems and figuring out how to design a software remedy.
 
 # Projects
+These are my pets. I love taking care of them and would like to bring additional ones to life, but that continuously takes a bit of money and a lot of time. Do you want to help me out by [becoming a sponsor](https://github.com/sponsors/jesperolsson-se)?
+
 ## Cogniation  
 A webservice for stroke rehabilitation.  
 [Product vision](https://github.com/jesperolsson-se/cogniation/blob/main/README.md) - [Demo environment](https://cogniation.jesperolsson.se/) - [Container repository](https://hub.docker.com/repository/docker/jesperolssonse/cogniation) - [Code repository](https://github.com/jesperolsson-se/cogniation)
