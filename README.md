@@ -13,6 +13,13 @@ A webservice for stroke rehabilitation.
 GitHub bot analyzing pull request metrics.  
 [Product vision](https://github.com/jesperolsson-se/setuju/blob/main/README.md) - [Demo](https://github.com/jesperolsson-se/setuju/pull/27#issuecomment-1206425402) - [Container repository](https://hub.docker.com/repository/docker/jesperolssonse/setuju) - [Code repository](https://github.com/jesperolsson-se/setuju)
 
+## Capsyl
+
+Application for visualizing object-oriented designs.
+
+
+[Product vision](https://github.com/jesperolsson-se/capsyl/blob/main/README.md) - [Demo](https://github.com/jesperolsson-se/FizzBuzz-OCP-Challenge/blob/main/src/main/java/org/example/rearrange/positive/fizzBuzz.svg) - [Container repository](https://hub.docker.com/repository/docker/jesperolssonse/capsyl) - [Code repository](https://github.com/jesperolsson-se/capsyl)
+
 [^setuju]:
     Indonesian for "I agree". :indonesia:
 
