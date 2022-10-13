@@ -20,6 +20,15 @@ Application for visualizing object-oriented designs.
 
 [Product vision](https://github.com/jesperolsson-se/capsyl/blob/main/README.md) - [Demo](https://github.com/jesperolsson-se/FizzBuzz-OCP-Challenge/blob/main/src/main/java/org/example/rearrange/positive/fizzBuzz.svg) - [Container repository](https://hub.docker.com/repository/docker/jesperolssonse/capsyl) - [Code repository](https://github.com/jesperolsson-se/capsyl)
 
+# Guides
+## FizzBuzz-OCP-Challenge
+
+_Topic: Object-oriented design_
+
+Want to increase your development speed? Learn how to eliminate the need for rewrites.
+
+[Article](https://github.com/jesperolsson-se/FizzBuzz-OCP-Challenge/blob/main/README.md)
+
 [^setuju]:
     Indonesian for "I agree". :indonesia:
 
