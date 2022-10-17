@@ -29,6 +29,14 @@ Want to increase your development speed? Learn how to eliminate the need for rew
 
 [Article](https://github.com/jesperolsson-se/FizzBuzz-OCP-Challenge/blob/main/README.md)
 
+## Eolang-exercises
+
+_Topic: Object-oriented design_
+
+Are you good enough at object-orientation to try out a "true" OO language?
+
+[Article](https://github.com/jesperolsson-se/Eolang-exercises/blob/main/README.md)
+
 [^setuju]:
     Indonesian for "I agree". :indonesia:
 
