@@ -37,6 +37,15 @@ Are you good enough at object-orientation to try out a "true" OO language?
 
 [Article](https://github.com/jesperolsson-se/Eolang-exercises/blob/main/README.md)
 
+## Sliding-window
+<img src="https://github.com/jesperolsson-se/sliding-window/blob/main/resources/window.png" height="80px" align="right"/>
+
+_Topic: Algorithm design_
+
+Technique for leveraging spatial reasoning to create easy-to-understand solutions.
+
+[Article](https://github.com/jesperolsson-se/sliding-window/blob/main/README.md)
+
 [^setuju]:
     Indonesian for "I agree". :indonesia:
 
