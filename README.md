@@ -21,6 +21,8 @@ Application for visualizing object-oriented designs.
 [Product vision](https://github.com/jesperolsson-se/capsyl/blob/main/README.md) - [Demo](https://github.com/jesperolsson-se/FizzBuzz-OCP-Challenge/blob/main/src/main/java/org/example/rearrange/positive/fizzBuzz.svg) - [Container repository](https://hub.docker.com/repository/docker/jesperolssonse/capsyl) - [Code repository](https://github.com/jesperolsson-se/capsyl)
 
 # Guides
+Explanatory writings (with code). Each article was created because the subject matter was unfamiliar to a friend or colleague, and I couldn't find satisfactory explanations elsewhere.
+
 ## FizzBuzz-OCP-Challenge
 
 _Topic: Object-oriented design_
