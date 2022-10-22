@@ -1,5 +1,7 @@
 Passionate software engineer who develops products in the public interest. Strong background in backend development and architecture as well as extreme programming and leadership. Jesper is strongly motivated by the fulfillment that comes with enriching other peoples' lives - listening to their problems and figuring out how to design a software remedy.
 
+<img src="https://github-readme-stats.vercel.app/api?username=jesperolsson-se&show_icons=true&text_bold=false&title_color=118C4F&icon_color=118C4F" />
+
 # Projects
 These are my pets. I love taking care of them and would like to bring additional ones to life, but that continuously takes a bit of money and a lot of time. Do you want to help me out by [becoming a sponsor](https://github.com/sponsors/jesperolsson-se)?
 
@@ -24,7 +26,7 @@ Application for visualizing object-oriented designs.
 Explanatory writings (with code). Each article was created because the subject matter was unfamiliar to a friend or colleague, and I couldn't find satisfactory explanations elsewhere.
 
 ## FizzBuzz-OCP-Challenge
-<img src="https://github.com/jesperolsson-se/FizzBuzz-OCP-Challenge/blob/main/src/main/java/org/example/rearrange/positive/fizzBuzz.svg" height="160px" align="right"/>
+<img src="https://github.com/jesperolsson-se/FizzBuzz-OCP-Challenge/blob/main/src/main/java/org/example/rearrange/positive/fizzBuzz.svg" height="150px" align="right"/>
 
 _Topic: Object-oriented design_
 
